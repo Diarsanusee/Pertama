@@ -10,7 +10,7 @@ Saya belum tahu apa yang akan saya lakukan
   <body>
     <header>
       <h1>pertama</h1>
-      <p>kedua</p>
+      <p>masih jauh ternyata harus memiliki laptop atau pc</p>
     </header>
     <main>
       <section>
@@ -29,7 +29,7 @@ Saya belum tahu apa yang akan saya lakukan
       </section>
     </main>
     <footer>
-      <p>somidle &copy; 2024</p>
+      <p>pembuatan &copy; 2024</p>
     </footer>
   </body>
 </html>
