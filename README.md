@@ -1,5 +1,5 @@
 # Pertama
-Saya belum tahu apa yang akan saya lakukan 
+Saya masih belajar dari nol 
 <html>
   <head>
     <meta charset="UTF-8">
@@ -14,8 +14,8 @@ Saya belum tahu apa yang akan saya lakukan
     </header>
     <main>
       <section>
-        <h2>gold tree</h2>
-        <p>i hope you got it</p>
+        <h1>ke dua</h1>
+        <p>smoga di beri kelancaran</p>
       </section>
       <section>
         <h2> ini produk nya</h2>
