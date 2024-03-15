@@ -9,12 +9,12 @@ Saya masih belajar dari nol
   </head>
   <body>
     <header>
-      <h1>pertama</h1>
+      <h1>kedua</h1>
       <p>masih jauh ternyata harus memiliki laptop atau pc</p>
     </header>
     <main>
       <section>
-        <h1>ke dua</h1>
+        <h1>ke tiga</h1>
         <p>smoga di beri kelancaran</p>
       </section>
       <section>
