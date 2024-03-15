@@ -4,7 +4,7 @@ Saya masih belajar dari nol
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mahdiar dreams</title>
+    <p>lets started</p>
     <link rel="styleseet" href ="styles.css">
   </head>
   <body>
